@@ -21,7 +21,7 @@ MealPlanner
 - [Jess rule engine for Java](http://alvarestech.com/temp/fuzzyjess/Jess60/Jess70b7/docs/intro.html#setup)
 
 MealPlannerGenerator
-- [Apache POI](https://poi.apache.org/) for Java
+- [Apache POI for Java](https://poi.apache.org/)
 
 ### Running MealPlanner
 1. Install Jess.
