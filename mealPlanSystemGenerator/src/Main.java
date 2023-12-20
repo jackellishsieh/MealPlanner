@@ -22,8 +22,9 @@ public class Main {
    public static boolean printToConsole = true;
 
    // File to read from
-   public static String filename = "src/CuatroFoods.xlsx";
+   public static String filename = "input/CuatroFoods.xlsx";
 
+   // File to output to
    public static String canEatRulesFilename = "output/canEatRules.clp";
    public static String addFoodRulesFilename = "output/addFoodRules.clp";
 
